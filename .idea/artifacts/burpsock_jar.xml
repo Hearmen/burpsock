@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="burpsock:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/burpsock_jar</output-path>
+    <root id="archive" name="burpsock.jar">
+      <element id="module-output" name="burpsock" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/portswigger/burp/extender/burp-extender-api/1.7.22/burp-extender-api-1.7.22.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/razorvine/pyrolite/4.30/pyrolite-4.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/resources/libs/rsyntaxtextarea-2.6.1.edited.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.14/commons-codec-1.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/razorvine/serpent/1.23/serpent-1.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.73/fastjson-1.2.73.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
